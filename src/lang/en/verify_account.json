@@ -1,0 +1,12 @@
+{
+  "VERIFY_TITLE": "Verify Your Beccountable Account",
+  "GREETING": "Hi {username},",
+  "EXCITEMENT_MESSAGE": "We're excited to have you on board with Beccountable!",
+  "OTP_MESSAGE": "To verify your email address, please enter the following one-time password (OTP):",
+  "OTP_PLACEHOLDER": "{OTP}",
+  "VERIFICATION_MESSAGE": "Once you've entered the OTP, your email address will be verified and you'll be able to start using Beccountable.",
+  "QUESTIONS_MESSAGE": "If you have any questions, please don't hesitate to contact us.",
+  "THANKS_MESSAGE": "Thanks,",
+  "SIGNATURE": "The Beccountable Team"
+}
+  

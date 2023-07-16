@@ -1,0 +1,11 @@
+{
+  "VERIFY_TITLE": "Vérifiez votre compte Beccountable",
+  "GREETING": "Bonjour {username},",
+  "EXCITEMENT_MESSAGE": "Nous sommes ravis de vous accueillir chez Beccountable !",
+  "OTP_MESSAGE": "Pour vérifier votre adresse e-mail, veuillez entrer le code à usage unique suivant :",
+  "OTP_PLACEHOLDER": "{OTP}",
+  "VERIFICATION_MESSAGE": "Une fois que vous avez saisi le code à usage unique, votre adresse e-mail sera vérifiée et vous pourrez commencer à utiliser Beccountable.",
+  "QUESTIONS_MESSAGE": "Si vous avez des questions, n'hésitez pas à nous contacter.",
+  "THANKS_MESSAGE": "Merci,",
+  "SIGNATURE": "L'équipe Beccountable"
+}

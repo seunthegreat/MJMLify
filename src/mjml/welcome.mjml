@@ -1,0 +1,27 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="24px" color="#1A2238" font-family="helvetica" align="center">{{WELCOME_TITLE}}</mj-text>
+        <mj-divider border-color="#1A2238"></mj-divider>
+        <mj-text font-size="20px" color="#1A2238" font-family="helvetica">{{GREETING}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{WELCOME_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{EXCITEMENT_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica" font-weight="bold">{{GET_STARTED_TITLE}}</mj-text>
+
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica" padding="10px 0 0 20px">
+          <ul>
+            <li style="margin: 10px;">{{STEP_ONE}}</li>
+            <li style="margin: 10px;">{{STEP_TWO}}</li>
+            <li style="margin: 10px;">{{STEP_THREE}}</li>
+          </ul>
+        </mj-text>
+
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{HELP_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{THANKS_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{SIGNATURE}}</mj-text>
+        <mj-divider border-color="#1A2238"></mj-divider>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

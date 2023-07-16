@@ -1,0 +1,19 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="24px" color="#1A2238" font-family="helvetica" align="center">{{VERIFY_TITLE}}</mj-text>
+        <mj-divider border-color="#1A2238"></mj-divider>
+        <mj-text font-size="20px" color="#1A2238" font-family="helvetica">{{GREETING}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{EXCITEMENT_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{OTP_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica" font-weight="bold">{{OTP_PLACEHOLDER}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{VERIFICATION_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{QUESTIONS_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{THANKS_MESSAGE}}</mj-text>
+        <mj-text font-size="16px" color="#1A2238" font-family="helvetica">{{SIGNATURE}}</mj-text>
+        <mj-divider border-color="#1A2238"></mj-divider>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

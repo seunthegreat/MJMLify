@@ -1,0 +1,13 @@
+{
+  "WELCOME_TITLE": "Welcome to Beccountable",
+  "GREETING": "Hi {username},",
+  "WELCOME_MESSAGE": "Welcome to Beccountable, the platform that connects you with Accountability Partners who can help you achieve your goals.",
+  "EXCITEMENT_MESSAGE": "We're excited to have you on board, and we're confident that you'll find the support you need to succeed.",
+  "GET_STARTED_TITLE": "Here are a few things to get you started:",
+  "STEP_ONE": "Complete your profile: Your profile is the foundation of your experience on Beccountable. Be sure to include your interests, goals, and availability so that we can match you with the right Accountability Partners.",
+  "STEP_TWO": "Match with an Accountability Partner: Once you've completed your profile, we'll match you with potential Accountability Partners who have similar interests and expertise. You can also search for specific Accountability Partners by industry, experience, or specialization.",
+  "STEP_THREE": "Start working with your Accountability Partner: Once you've been matched with an Accountability Partner, you can start working together to achieve your goals. Your Accountability Partner will provide you with support, guidance, and accountability.",
+  "HELP_MESSAGE": "We're here to help you every step of the way, so don't hesitate to contact us if you have any questions.",
+  "THANKS_MESSAGE": "Thanks,",
+  "SIGNATURE": "The Beccountable Team"
+}

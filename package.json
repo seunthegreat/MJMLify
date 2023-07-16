@@ -1,0 +1,19 @@
+{
+  "name": "mjmlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node src/helpers/generate_html.js",
+    "convert_all": "node src/helpers/generate_all_html.js",
+    "delete_all": "node src/helpers/delete_translations.js",
+    "ls_lang": "node src/helpers/list_supported_lang.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.14.1"
+  }
+}

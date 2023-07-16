@@ -1,0 +1,11 @@
+{
+  "VERIFY_TITLE": "Ṣeyẹyẹ Aṣe Rẹ Beccountable",
+  "GREETING": "Bawo ni {username},",
+  "EXCITEMENT_MESSAGE": "A jẹ aro-lẹ lati wa ninu agbegbe Beccountable!",
+  "OTP_MESSAGE": "Lati ṣeyẹyẹ aṣọ rẹ imẹrẹ kan (OTP), jọwọ pẹlu iṣẹgun kan tobi ti a ṣe.",
+  "OTP_PLACEHOLDER": "{OTP}",
+  "VERIFICATION_MESSAGE": "Lẹhin ti o ti ṣe aṣọ naa, adirẹsi imeeli rẹ yoo ti wa niyanju ati o yoo le ṣe lo fun lo Beccountable.",
+  "QUESTIONS_MESSAGE": "Ti o ni iwe aṣẹ kan, jọwọ mọ̀ nipa siwa wa.",
+  "THANKS_MESSAGE": "O ṣeun,",
+  "SIGNATURE": "Ìròyìn Beccountable"
+}
